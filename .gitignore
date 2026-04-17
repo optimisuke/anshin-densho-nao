@@ -1,0 +1,5 @@
+tadaima/secrets.h
+
+# Arduino ビルドキャッシュ
+build/
+tadaima/build/
