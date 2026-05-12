@@ -3,7 +3,7 @@
 #include <HTTPClient.h>
 #include "secrets.h"
 
-const char* MESSAGE = "ただいま";
+const char* MESSAGE = "ただいま！！";
 const int MAX_RETRIES = 5;
 
 void showEmoji(const char* emoji, uint32_t bgColor) {

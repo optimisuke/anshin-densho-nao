@@ -1,5 +1,9 @@
 tadaima/secrets.h
+tadaima-atom/secrets.h
 
 # Arduino ビルドキャッシュ
 build/
 tadaima/build/
+
+# Mac
+.DS_Store
